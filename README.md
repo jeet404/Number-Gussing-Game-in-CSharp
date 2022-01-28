@@ -1,4 +1,4 @@
-# Number-Gussing-Game-inCSharp
+# Number-Gussing-Game-in-CSharp
 
 - Here a Simple number guessing game is created using C#
 - This C# Program Performs a Number Guessing Game.
